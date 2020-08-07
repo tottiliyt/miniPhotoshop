@@ -1,0 +1,13 @@
+yli346 - Yuntao Li
+emill105 - Ely Miller
+
+This program will be an image-manipulation program, in the vein of Photoshop.
+The operations your program will be able to recognize and perform are all of the following (the bolded words are the operation names to be entered at the command line by the user):
+
+exposure - change exposure of an image
+α-blend - blend two images by a given ratio
+zoom in - zoom in to an image
+zoom out - zoom out of an image
+pointilism - pointilism technique
+swirl - swirl the image
+blur - blur the image (smooth and soften its edges) by a specified amount

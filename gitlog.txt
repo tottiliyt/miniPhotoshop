@@ -1,0 +1,364 @@
+commit db61cd11a5fcf0ea8dc31a52d12768f91e5dce06
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Thu Apr 2 22:07:56 2020 -0400
+
+    blur
+
+commit a0d9d9b218befd8ca5daec72ca0d0c0e28f45e8e
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 09:32:56 2020 +0800
+
+    blur
+
+commit 4709ade9e961144eb049d09d3131663a41714ba0
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Thu Apr 2 21:18:58 2020 -0400
+
+    blur
+
+commit fcb2c46dc9b10dae566caea04847435e06b8933c
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 08:55:58 2020 +0800
+
+    blur
+
+commit ec06e8928ba0262f702f208ef08f90a6d0c31843
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 08:02:00 2020 +0800
+
+    test
+
+commit 61fa49d58221ec4c1ee9b0be97168cffe6e26213
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 07:41:26 2020 +0800
+
+    blur
+
+commit 7dc586e08144306807fe1aeb47a516adab890ff6
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 07:28:53 2020 +0800
+
+    minor
+
+commit 331564bfa47d3197fb7cbba5e731a7d30c942957
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 06:34:13 2020 +0800
+
+    blur
+
+commit 0ceaf13dde9f9e1b1871ac00eca3ebf5df616c8e
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 06:06:59 2020 +0800
+
+    zoomout
+
+commit fd97a3db5544832d6cd2062beddf221bfb97d080
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 05:53:46 2020 +0800
+
+    zoomout
+
+commit 91f20b5fe2d9247fe2dbe3cf846be3b883bbc785
+Merge: 8844ed3 c6a9db8
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 05:44:23 2020 +0800
+
+    -zoomout
+
+commit 8844ed30ec3705e0318661063ed435c9caf3251d
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 05:33:08 2020 +0800
+
+    minor
+
+commit c6a9db8fb368f7030befbb6dbd663f38a07ce30d
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Thu Apr 2 17:32:06 2020 -0400
+
+    donezoomin
+
+commit 71f008334a3f170175d02c15609b4dc8fd8e2bfb
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 04:12:48 2020 +0800
+
+    minor
+
+commit 9b91d1dc9486c69b2f959d8a9a2703c2f8e7bcd3
+Author: Yuntao Li <yli346@jh.edu>
+Date:   Thu Apr 2 16:08:47 2020 -0400
+
+    done exposure
+
+commit d6fe65d6c300bac8dd97e572f81992b2d98aabe0
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 03:10:15 2020 +0800
+
+    expo
+
+commit f8602c136de71763163fc91c6792194f90a88874
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 03:02:22 2020 +0800
+
+    zoomin
+
+commit 264a9dcd5cb345c594ef0e5370614722006100ac
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 03:00:50 2020 +0800
+
+    zoomin
+
+commit face070be378c1ef9140de3c26d041e298b8cbd4
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 02:56:32 2020 +0800
+
+    zoomin
+
+commit ebf23089156d33d1c31eb53bd9ab09c0e5e4c465
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 02:53:14 2020 +0800
+
+    zoomin
+
+commit 25bc5cbab4c58e84412c0d0aa67755dd74370bfc
+Merge: e06e15b 9f318f9
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 02:00:08 2020 +0800
+
+    Merge branch 'master' of https://bitbucket.org/emill105/cs220-midtermproject
+
+commit e06e15bf1f347fd5f748d139e857c2a966c49cb3
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 01:58:38 2020 +0800
+
+    expo
+
+commit d4ebce033efd02361105cb84425be9e0a0ad22ea
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 01:58:15 2020 +0800
+
+    expo
+
+commit 9f318f99be7b8a4da662bacf853b9f71919e78bb
+Merge: a49763b 34b2267
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 13:49:55 2020 -0400
+
+    error changes
+
+commit 34b2267a75e8a7142eebd5bc90a9acaeb970de02
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 01:33:09 2020 +0800
+
+    exposure
+
+commit 82235bd571f05f87f7b7fdf85c14277324192272
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 01:30:49 2020 +0800
+
+    exposure
+
+commit a49763bdec3f6891276a458bbe727399ec0f1814
+Merge: f1cda1c a5db7af
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 13:27:37 2020 -0400
+
+    error checking
+
+commit f1cda1c7ce74cfd9adc86999cbada341268eaced
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 13:25:18 2020 -0400
+
+    added error 7
+
+commit a5db7af8d56a506a401185a43876de4e95d4ab3d
+Author: Alan Li <yli346@jh.edu>
+Date:   Fri Apr 3 01:11:59 2020 +0800
+
+    change exposure
+
+commit e550d2bf46e48fdff2ac4e5cf24e60206316b338
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 23:52:15 2020 +0800
+
+    minor
+
+commit 43f943ca1a587ad608eb79f45c3bdd53172f51e0
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 23:39:41 2020 +0800
+
+    minor
+
+commit 7bc9c1a36fedc4768fca5914d472b89f568bbffb
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 23:26:52 2020 +0800
+
+    minor
+
+commit 3ce0989acdfc22d77b8521baa5bd98d72399a566
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 23:17:32 2020 +0800
+
+    -minor change
+
+commit 637d52c4257e8c8e358d3542b08ba84547d54f8c
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 20:23:29 2020 +0800
+
+    -add name
+
+commit 1b8c44bba07068e694200309605cfa8097dcc863
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 19:25:40 2020 +0800
+
+    blur
+
+commit cf05c7e52f140e50debef717bc0f0f8e4cf5df1f
+Merge: 15ba46c 0627564
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 17:34:26 2020 +0800
+
+    exposure,zoomin,zoomout
+
+commit 15ba46c935e652e15c843c893e8770aa67caca5c
+Author: Alan Li <yli346@jh.edu>
+Date:   Thu Apr 2 17:19:09 2020 +0800
+
+    exposure,zoom in and zoom out
+
+commit 062756447aeb16d5371044982281704f61d8a2de
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 04:50:59 2020 -0400
+
+    a
+
+commit 16d0bfe6b5db122df47a693f6d225a49513a25b4
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 04:47:05 2020 -0400
+
+    integrated Makefile
+
+commit 5af3de784f45784d7210c37131c1961b91878ba3
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 04:13:29 2020 -0400
+
+    added README and gitlog
+
+commit 5b80e5a46f13717691e37cb1c7d52c7fcbf65947
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Thu Apr 2 03:56:49 2020 -0400
+
+    finished swirl & blend, added error detects
+
+commit 8d5e4a06d48c0620157b19430da285ae5941cb62
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Wed Apr 1 01:38:01 2020 -0400
+
+    changed blend in project.c
+
+commit fc72b330b9962bd67c516d90cc52cc1b41a93abe
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Wed Apr 1 00:44:44 2020 -0400
+
+    slight changes
+
+commit a32aabce238b04810c2e2f5444e00eaa127e7391
+Author: Alan Li <yli346@jh.edu>
+Date:   Tue Mar 31 18:52:27 2020 +0800
+
+    test commit
+
+commit 2994fafadf924fb68681faeff8136b35b98c981b
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Tue Mar 31 01:26:07 2020 -0400
+
+    started swirl
+
+commit 95884d267b8ef90a9bd5191ea2c91e92160928b7
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sun Mar 29 00:22:52 2020 -0400
+
+    started project.c
+
+commit e42e81b29162d5135f6584a319057f92220edc2e
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sat Mar 28 20:31:05 2020 -0400
+
+    added pointilism
+
+commit 9ab0128e9aaf1b96c8cd26166ff9736e4d852c34
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Fri Mar 27 18:37:55 2020 -0400
+
+    added zoom_in and zoom_out
+
+commit 06d1cbe16c214799c5d2b618fcfc08897203d208
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Fri Mar 27 01:49:36 2020 -0400
+
+    slight changes
+
+commit d50dc6fb93974046ac8f8fc4609a98fcbc6660b4
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Fri Mar 27 01:41:25 2020 -0400
+
+    added exposure, i/o changes
+
+commit 1b42f4aec98a7890704a312164f313a5abf1119a
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sun Mar 22 18:53:20 2020 -0400
+
+    created functions in imageManip.c
+
+commit 3cd308d3230278c5ed0aea5d527c84ab4851587d
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Tue Mar 17 16:37:18 2020 -0400
+
+    added some error-checking to project.c
+
+commit d647cdfa83ca3e1417509509e45d02a14fbd9f5b
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sun Mar 15 01:42:46 2020 -0400
+
+    successfully completed the read/write in ppm_io.c
+
+commit 7b801cdbb64a78ded795a0603929800cd35f7dc9
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Wed Mar 11 20:50:34 2020 -0400
+
+    added checks to ppm_io.c
+
+commit b7fe2fc396ebe556d98d20e8e83d1a9fc4063b89
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Wed Mar 11 19:58:16 2020 -0400
+
+    small changes to write_ppm
+
+commit 037fa24578665358907e97608eb5027603bf6bfb
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Mon Mar 9 16:12:39 2020 -0400
+
+    made fixes to read_ppm
+
+commit bf3a386b662525c4bbd1537ffdf91e7b6d093716
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Mon Mar 9 00:34:45 2020 -0400
+
+    add read/write test to test_project.c
+
+commit 8fb05907cd4d2023ce4b46bf41eba62dbe06e416
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Mon Mar 9 00:19:30 2020 -0400
+
+    added project.c and a test file, test_project.c
+
+commit a8fa3701fbacb9b01b78ad286c4004941ba434b0
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sun Mar 8 23:21:05 2020 -0400
+
+    implemented function ppm_read
+
+commit 6c0bd2fbd0cf148a3d566cd8b4d3b8ee987c17b6
+Author: Ely Miller <emill105@jhu.edu>
+Date:   Sun Mar 8 18:28:20 2020 -0400
+
+    initial commit
